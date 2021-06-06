@@ -1,0 +1,15 @@
+.grid{
+    display: flexbox;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+
+
+}
+
+.item img{
+    display: flexbox;
+    border: solid;
+    border-radius: 10%;
+
+
+}
